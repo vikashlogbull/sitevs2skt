@@ -53,4 +53,4 @@
  * @see conf_path()
  * @see http://drupal.org/documentation/install/multi-site
  */
-$sites['subsiteskt0318.site.com'] = 'subsiteskt0318.site.com';
+$sites['subsiteskt0318.evolverinc.tech'] = 'subsiteskt0318.evolverinc.tech';
